@@ -20,4 +20,5 @@ Ideal
 
 Reset
 
+![alt text](https://github.com/yasintamaliaab/KUISR5/blob/master/ceksehat1.PNG)
 
